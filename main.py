@@ -5,7 +5,7 @@ from flask import Flask, request
 import os
 
 # Replace with your bot token and IPinfo token
-TELEGRAM_BOT_TOKEN = '6322113240:AAGVoUcsqY8FZjdRnfLpnsrJOeWBtm5BObI'
+TELEGRAM_BOT_TOKEN = '6398629021:AAHGWeAquSjbJso2qsC-Z3OcC9gefvGUOhk'
 IPINFO_TOKEN = 'cdce1e8e5d4e9f'
 
 # Flask app setup
