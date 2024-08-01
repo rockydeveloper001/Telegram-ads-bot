@@ -60,6 +60,6 @@ def webhook():
 
 if __name__ == '__main__':
     # Replace 'your-username.pythonanywhere.com' with your actual PythonAnywhere domain
-    updater.bot.set_webhook('')
+    updater.bot.set_webhook('howling-bear-many.on-fleek.app')
     # Start Flask app
     app.run(port=8000)
